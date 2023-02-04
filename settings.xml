@@ -4,8 +4,8 @@ hemaLocation="http://maven.apache.org/SETTINGS/1.1.0 http://maven.apache.org/xsd
 <servers>
     <server>
       <id>nexus</id>
-      <username>admin</username>
-      <password>admin123</password>
+         <username>${nexusUser}</username>
+         <password>${nexusPassword}</password>
     </server>
     </servers>
 <pluginGroups xmlns="http://maven.apache.org/SETTINGS/1.1.0">
