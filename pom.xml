@@ -25,7 +25,7 @@
     <repository>
       <id>vprofile-v1-release</id>
       <name>vprofile-v1</name>
-      <url>http://52.66.87.190:8081/nexus/content/repositories/vprofile-v1id</url>
+      <url>http://15.207.221.14:8081/nexus/content/repositories/vprofile-v1id</url>
     </repository>
 </distributionManagement>
     <dependencies>
