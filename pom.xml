@@ -4,7 +4,7 @@
     <groupId>com.visualpathit</groupId>
     <artifactId>vprofile</artifactId>
     <packaging>war</packaging>
-    <version>v1</version>
+    <version>v1-release</version>
     <name>NVProfile Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
@@ -23,9 +23,9 @@
     </properties>
 <distributionManagement>
     <repository>
-      <id>nexus</id>
-      <name>nexus</name>
-      <url>http://13.234.18.26:8081/nexus/content/repositories/nexus/</url>
+      <id>vprofile-v1-release</id>
+      <name>vprofile-v1</name>
+      <url>http://52.66.87.190:8081/nexus/content/repositories/vprofile-v1id</url>
     </repository>
 </distributionManagement>
     <dependencies>
