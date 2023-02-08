@@ -3,7 +3,7 @@ hemaLocation="http://maven.apache.org/SETTINGS/1.1.0 http://maven.apache.org/xsd
   <localRepository xmlns="http://maven.apache.org/SETTINGS/1.1.0">C:\Users\jeffy\.m2\repository</localRepository>
 <servers>
     <server>
-      <id>nexus</id>
+      <id>vprofile-v1-release</id>
          <username>${nexusUser}</username>
          <password>${nexusPassword}</password>
     </server>
